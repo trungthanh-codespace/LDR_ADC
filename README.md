@@ -10,4 +10,4 @@ Bài tập tuần 4: Đọc giá trị độ sáng từ quang trở qua ADC
 * Quang trở (LDR) nối với chân VN (IO 39)
 ------------------
 *Đồ thị:*
-![LDRplot]([https://github.com/user-attachments/assets/43c1a044-868b-4bd3-821c-8492ead91e59](https://github.com/trungthanh-codespace/LDR_ADC/blob/main/LDRplot.png))
+![LDRplot](https://github.com/trungthanh-codespace/LDR_ADC/blob/main/LDRplot.png)
